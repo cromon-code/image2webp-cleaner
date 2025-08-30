@@ -23,7 +23,7 @@ GitHub Pages 上で動作する、完全クライアントサイドツールで�
 
 ## 🚀 使い方
 
-1. [公開ページ (GitHub Pages)](https://your-username.github.io/image2webp-cleaner/) にアクセス  
+1. [公開ページ (GitHub Pages)](https://cromon-code.github.io/image2webp-cleaner/) にアクセス  
 2. PNG / JPG / WebP ファイルを **ドラッグ＆ドロップ**  
 3. 自動的に WebP に変換され、結果がテーブルに表示されます  
 4. 必要に応じて個別DL、または **ZIP一括DL**  
@@ -42,10 +42,4 @@ image2webp-cleaner/
 ├── index.html # メイン画面
 ├── style.css # カスタムCSS
 ├── script.js # ロジック
-├── libs/
-│ ├── jszip.min.js
-│ └── FileSaver.min.js
 └── README.md
-
-## 📖 ライセンス
-MIT License
